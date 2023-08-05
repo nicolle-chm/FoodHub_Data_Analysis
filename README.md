@@ -1,3 +1,8 @@
-# FoodHub_Data_Analysis
+# FoodHub MIT Project
 
-MIT project: Analyzing Foodhub Data to get to get a fair idea about the demand of different restaurants
+This repository contains multiple Jupyter notebooks focused on analyzing Foodhub Data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience and improve the business. This serves as a project for the Data Science module at MIT Professional Education. 
+
+## Table of content
+
+
+Made with ❤️ by Nicolle Ch. 
